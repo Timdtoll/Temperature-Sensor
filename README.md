@@ -16,6 +16,9 @@ Use a Raspberry Pi Pico 2 coded with the Arduino IDE to measure and compare temp
 ## Wiring Guide
 ![Image](https://github.com/user-attachments/assets/46e4198b-bd15-4889-a4c3-f1d57ca65a16)
 
+## Run Guide
+Make sure the Arduino IDE includes earlephilhowe's Raspberry Pi board controller in File -> Preferences -> Additional Board Manager URL. Follow the wiring guide and upload the TemperatureSensorComplete.ino file into the Rasperberry Pi Pico 2.
+
 ## Libraries Used
 - Wire
 - OneWire
