@@ -1,4 +1,4 @@
-### Temperature Sensor Project
+# Temperature Sensor Project
 Project created in 2024, uploaded 2025
 
 ## Goal
